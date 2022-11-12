@@ -10,7 +10,7 @@ Mobile Application "Dictionary App"
 - Storing a history of word searches in a database;
 - Delete entries from the history.
 
-**Technologies & Libraries**:
+**Technologies & Libraries**
 - Android Studio;
 - Java;
 - Android SDK;
