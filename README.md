@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/83454633/198883983-f6517a28-23a3-4c89-b803-6835e1f41f16.png" width="22"> Dictionary App
-Mobile Application "Dictionary App
+Mobile Application "Dictionary App"
 
 **Functionalities**:
 - Find and display the searched word by name;
