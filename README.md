@@ -8,7 +8,7 @@ Mobile Application "Dictionary App"
 - Display detailed information about the meanings of the entered word – part of speech, definition, examples, synonyms and antonyms;
 - Displaying the last searched word by the user every time the application is launched;
 - Storing a history of word searches in a database;
-- Delete entries from the history
+- Delete entries from the history.
 
 **Technologies & Libraries**:
 - Android Studio;
