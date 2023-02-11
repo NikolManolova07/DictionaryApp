@@ -14,7 +14,7 @@ Mobile Application "Dictionary App"
 - Android Studio;
 - Java;
 - Android SDK;
-- Retrofit – type-safe HTTP client for Android и Java;
+- Retrofit – type-safe HTTP client for Android and Java;
 - Gson Converter;
 - SQLite database.
 
